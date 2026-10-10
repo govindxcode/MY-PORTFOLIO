@@ -138,21 +138,21 @@ export const portfolioData = {
   projects: [
     {
       id: 'chatroulette-clone',
-      title: 'Chat Roulette Clone',
-      description: 'A real-time social matching web app inspired by chat roulette, focused on quick peer-to-peer interaction and user flow.',
-      tags: ['React', 'Node.js', 'Express.js', 'Socket.IO'],
+      title: 'Stranger Lock Video',
+      description: 'A real-time stranger video chat application featuring random matchmaking, peer-to-peer video calling, text chat, and call controls.',
+      tags: ['React', 'Node.js', 'Express.js', 'Socket.IO', 'WebRTC'],
       githubUrl: '',
-      liveUrl: '',
-      statusBadge: 'In Progress',
+      liveUrl: 'https://stranger-lock-video.vercel.app/chat',
+      statusBadge: 'Live',
     },
     {
       id: 'shyam-residency',
       title: 'Hotel Shyam Residency',
-      description: 'Website project for Hotel Shyam Residency, focused on presenting hotel information and browsing experience.',
+      description: 'A hotel website designed to present hotel information and provide visitors with a convenient browsing experience.',
       tags: ['HTML', 'CSS', 'JavaScript'],
       githubUrl: '',
-      liveUrl: '',
-      statusBadge: 'Not Deployed',
+      liveUrl: 'https://hotel-shyam-residency.vercel.app/',
+      statusBadge: 'Live',
     },
   ] as Project[]
 };
