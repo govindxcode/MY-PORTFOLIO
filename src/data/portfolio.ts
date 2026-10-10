@@ -142,7 +142,7 @@ export const portfolioData = {
       description: 'A real-time stranger video chat application featuring random matchmaking, peer-to-peer video calling, text chat, and call controls.',
       tags: ['React', 'Node.js', 'Express.js', 'Socket.IO', 'WebRTC'],
       githubUrl: '',
-      liveUrl: 'https://stranger-lock-video.vercel.app/chat',
+      liveUrl: 'https://stranger-lock-video.vercel.app/',
       statusBadge: 'Live',
     },
     {
